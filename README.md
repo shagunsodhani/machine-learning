@@ -1,8 +1,12 @@
 # Introduction to Machine Learning with Scikit-Learn
 
-**Code &amp; Data for Introduction to Machine Learning with Scikit-Learn**
+**Demo Notebook for Introduction to Machine Learning with Scikit-Learn**
 
-[![Scikit-Learn Cheat Sheet](docs/img/cheat_sheet.png)](http://scikit-learn.org/stable/tutorial/machine_learning_map/)
+[![Scikit-Learn Cheat Sheet](assets/cheat_sheet.png)](http://scikit-learn.org/stable/tutorial/machine_learning_map/)
+
+## Credits
+
+This notebook is based on [work](https://github.com/DistrictDataLabs/machine-learning) done by [@DistrictDataLabs](https://github.com/DistrictDataLabs)
 
 ## Installing Scikit-Learn with pip
 
